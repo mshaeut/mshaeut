@@ -5,7 +5,7 @@
 Ooi, bem-vindo(a)! 😊
 
 🎓 Estudante de graduação em **Ciência de Dados e Inteligência Artifical** pela **Universidade Federal da Paraíba (UFPB)**  
-💻 Foco em **Backend** e **Banco de Dados**
+💻 Foco em **Desenvolvimento Backend** e **Banco de Dados**
 
 ### Tecnologias
 
