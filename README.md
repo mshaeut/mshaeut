@@ -10,6 +10,6 @@
 
 ## 🔎 Sobre mim:
 
-• 🎓 Estudante de graduação em **Ciência de Dados e Inteligência Artifical** pela **Universidade Federal da Paraíba (UFPB)**.  
-• 💻 Foco em **Desenvolvimento Backend**, **Banco de Dados** e **Otimização**.
-• 🎮 Apaixonado por **música**, **jogos** e **aprender novas coisas**.
+• 🎓 Estudante de graduação em **Ciência de Dados e Inteligência Artifical** pela **Universidade Federal da Paraíba (UFPB)** <br><br>
+• 💻 Foco em **Desenvolvimento Backend**, **Banco de Dados** e **Otimização** <br><br>
+• 🎮 Apaixonado por **música**, **jogos** e **aprender novas coisas** <br><br>
