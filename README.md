@@ -3,6 +3,7 @@
 ---
 
 > Ooi, seja bem vindo ao meu Github! 👋
+> 
 > Ciência de Dados & IA · Banco de Dados & SQL · Pesquisa Operacional · MLOps 
 
 ---
