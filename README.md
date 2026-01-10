@@ -10,8 +10,8 @@
 
 ## 🔎 Sobre mim
 
-🎓 Estudante de graduação em **Ciência de Dados e Inteligência Artifical** pela **Universidade Federal da Paraíba (UFPB)** <br><br>
-💻 Foco em **Desenvolvimento Backend**, **Banco de Dados** e **Otimização** <br><br>
+🎓 Estudante de graduação em **Ciência de Dados e Inteligência Artificial** pela **Universidade Federal da Paraíba (UFPB)** <br><br>
+💻 Foco em **Desenvolvimento Backend**, **Banco de Dados**, **Aprendizagem de Máquina** e **Otimização** <br><br>
 🎮 Apaixonado por **música**, **jogos** e **aprender novas coisas** <br><br>
 
 ## ⚙️ Ferramentas e Tecnologias
@@ -32,7 +32,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EABE3?style=for-the-badge)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-### 🧰 Ferramentas e Plataformas
+### 🛠️ Ferramentas
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
