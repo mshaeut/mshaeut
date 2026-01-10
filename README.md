@@ -2,7 +2,7 @@
 
 ---
 
-> Ooi, seja bem vindo ao meu GitHub! 👋 Espero que meus projetos despertem seu interesse de alguma forma ^^
+> Olá, seja bem-vindo ao meu GitHub! 👋 Espero que meus projetos despertem seu interesse de alguma forma ^^
 > 
 > Ciência de Dados & IA · Banco de Dados & SQL · Pesquisa Operacional · MLOps 
 
