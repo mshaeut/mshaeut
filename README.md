@@ -39,3 +39,8 @@
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+## 📬 Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bruno-362a513a4)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mattheus15bruno@gmail.com)
